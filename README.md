@@ -1,27 +1,22 @@
 # YOLO People Counter
 
-<a href="https://img.shields.io/badge/Python-3.8+-blue.svg" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+"/>
+<a href="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square" alt="Python 3.8+"/>
 </a>
-
-<a href="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+<a href="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License: MIT"/>
 </a>
-
-<a href="https://img.shields.io/badge/ultralytics-%20%237733BB?style=for-the-badge&logo=python" target="_blank">
-  <img src="https://img.shields.io/badge/ultralytics-%20%237733BB?style=for-the-badge&logo=python" alt="ultralytics"/>
+<a href="https://img.shields.io/badge/ultralytics-%237733BB?style=flat-square&logo=python" target="_blank">
+  <img src="https://img.shields.io/badge/ultralytics-%237733BB?style=flat-square&logo=python" alt="ultralytics"/>
 </a>
-
-<a href="https://img.shields.io/badge/YOLO-v11-%237733BB?style=for-the-badge" target="_blank">
-  <img src="https://img.shields.io/badge/YOLO-v11-%237733BB?style=for-the-badge" alt="YOLOv11"/>
+<a href="https://img.shields.io/badge/YOLO-v11-%237733BB?style=flat-square" target="_blank">
+  <img src="https://img.shields.io/badge/YOLO-v11-%237733BB?style=flat-square" alt="YOLOv11"/>
 </a>
-
-<a href="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=for-the-badge" target="_blank">
-  <img src="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=for-the-badge" alt="Tkinter"/>
+<a href="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=flat-square" target="_blank">
+  <img src="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=flat-square" alt="Tkinter"/>
 </a>
-
-<a href="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=for-the-badge&logo=opencv" target="_blank">
-  <img src="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=for-the-badge&logo=opencv" alt="OpenCV"/>
+<a href="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=flat-square&logo=opencv" target="_blank">
+  <img src="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=flat-square&logo=opencv" alt="OpenCV"/>
 </a>
 
 A GUI application for real-time people counting using YOLOv11.
