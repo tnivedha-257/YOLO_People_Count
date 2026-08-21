@@ -1,11 +1,11 @@
 # YOLO People Counter
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-FFD43B?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
 ![ultralytics](https://img.shields.io/badge/ultralytics-%237733BB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/Tkinter-8.6-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-FFD43B?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
 
 A GUI application for real-time people counting using YOLOv11.
 
