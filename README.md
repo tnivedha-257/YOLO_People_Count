@@ -1,5 +1,29 @@
 # YOLO People Counter
 
+<a href="https://img.shields.io/badge/Python-3.8+-blue.svg" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+"/>
+</a>
+
+<a href="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+</a>
+
+<a href="https://img.shields.io/badge/ultralytics-%20%237733BB?style=for-the-badge&logo=python" target="_blank">
+  <img src="https://img.shields.io/badge/ultralytics-%20%237733BB?style=for-the-badge&logo=python" alt="ultralytics"/>
+</a>
+
+<a href="https://img.shields.io/badge/YOLO-v11-%237733BB?style=for-the-badge" target="_blank">
+  <img src="https://img.shields.io/badge/YOLO-v11-%237733BB?style=for-the-badge" alt="YOLOv11"/>
+</a>
+
+<a href="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=for-the-badge" target="_blank">
+  <img src="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=for-the-badge" alt="Tkinter"/>
+</a>
+
+<a href="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=for-the-badge&logo=opencv" target="_blank">
+  <img src="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=for-the-badge&logo=opencv" alt="OpenCV"/>
+</a>
+
 A GUI application for real-time people counting using YOLOv11.
 
 ## Features
@@ -21,8 +45,8 @@ A GUI application for real-time people counting using YOLOv11.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tnivedha-257/YOLO_People_Count
-   cd YOLO_People_Count
+   git clone https://github.com/your-username/4YOLOPeopleCount.git
+   cd 4YOLOPeopleCount
    ```
 
 2. Install dependencies:
