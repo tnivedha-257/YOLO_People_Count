@@ -40,13 +40,13 @@ A GUI application for real-time people counting using YOLOv11.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/4YOLOPeopleCount.git
-   cd 4YOLOPeopleCount
+   git clone https://github.com/tnivedha-257/YOLO_People_Count.git
+   cd YOLO_People_Count
    ```
 
 2. Install dependencies:
    ```bash
-   pip install opencv-python ultralytics pillow
+   pip install -r requirements.txt
    ```
 
 3. Ensure `yolo11n.pt` model file is present in the project directory.
