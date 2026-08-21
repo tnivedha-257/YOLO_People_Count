@@ -1,23 +1,11 @@
 # YOLO People Counter
 
-<a href="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square" alt="Python 3.8+"/>
-</a>
-<a href="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License: MIT"/>
-</a>
-<a href="https://img.shields.io/badge/ultralytics-%237733BB?style=flat-square&logo=python" target="_blank">
-  <img src="https://img.shields.io/badge/ultralytics-%237733BB?style=flat-square&logo=python" alt="ultralytics"/>
-</a>
-<a href="https://img.shields.io/badge/YOLO-v11-%237733BB?style=flat-square" target="_blank">
-  <img src="https://img.shields.io/badge/YOLO-v11-%237733BB?style=flat-square" alt="YOLOv11"/>
-</a>
-<a href="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=flat-square" target="_blank">
-  <img src="https://img.shields.io/badge/Tkinter-8.6-%23646464?style=flat-square" alt="Tkinter"/>
-</a>
-<a href="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=flat-square&logo=opencv" target="_blank">
-  <img src="https://img.shields.io/badge/cv2-4.x-%23007ACC?style=flat-square&logo=opencv" alt="OpenCV"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-FFD43B?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
+![ultralytics](https://img.shields.io/badge/ultralytics-%237733BB?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-8.6-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 A GUI application for real-time people counting using YOLOv11.
 
